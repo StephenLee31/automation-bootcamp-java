@@ -1,0 +1,21 @@
+# Day 5 - Git Workflow Notes
+
+1. Branching convention:
+   - main
+   - feature/dayX-topic
+
+2. Commit message:
+   feat: ...
+   fix: ...
+   chore: ...
+
+3. Pull Request steps:
+   - push branch
+   - open PR
+   - review
+   - merge
+
+4. .gitignore patterns:
+   target/
+   .idea/
+   *.log
